@@ -6,7 +6,7 @@ PlayStation Sederhana adalah koleksi permainan sederhana yang dibuat menggunakan
 
 ## Latar Belakang
 
-PlayStation Sederhana merupakan pengembangan lanjutan dari [Mini PlayStation](https://github.com/lamberthrumpaidus/Mini-PlayStation). Proyek ini bertujuan untuk menyempurnakan pengalaman bermain dengan menambahkan lebih banyak fitur, permainan yang lebih beragam, serta antarmuka yang lebih ramah pengguna. Dengan PlayStation Sederhana, saya ingin menciptakan sesuatu yang lebih menarik dan menghibur bagi semua orang, sambil terus meningkatkan keterampilan pemrograman dan kreativitas saya.
+PlayStation Sederhana merupakan pengembangan lanjutan dari [Mini PlayStation](https://github.com/lamberthrumpaidus/Mini-PlayStation). Proyek ini bertujuan untuk menyempurnakan pengalaman bermain dengan menambahkan lebih banyak fitur, permainan yang lebih beragam, serta antarmuka yang lebih ramah pengguna. Dengan PlayStation Sederhana, saya ingin menciptakan sesuatu yang lebih menarik dan menghibur bagi semua orang, sambil terus meningkatkan keterampilan pemrograman dan kreativitas [saya](https://github.com/lamberthrumpaidus/).
 
 ## Fitur Utama
 
